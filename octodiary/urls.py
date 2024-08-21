@@ -26,9 +26,9 @@ class BaseURLs:
 
     class MYSCHOOL:
         AUTH = "https://esia.gosuslugi.ru"
-        SCHOOL = "https://myschool.mosreg.ru"
-        SCHOOL_API = "https://api.myschool.mosreg.ru"
-        DNEVNIK = "https://authedu.mosreg.ru"
+        SCHOOL = "https://dnevnik.admoblkaluga.ru"
+        SCHOOL_API = "https://api.admoblkaluga.ru"
+        DNEVNIK = "https://education.admoblkaluga.ru"
 
 
     class MES:
